@@ -1,0 +1,6 @@
+sort1 uses: bubble sort
+How do you know?: It does good on sorted numbers, because it just skips all the numbers. Although it's the slowest one when it comes to random numbers.
+sort2 uses: merge sort
+How do you know?: It's the fastest one in all cases, with just marginal exceptions. Does really good with greater amount of data.
+sort3 uses: selection sort
+How do you know?: It's the slowest one when it comes to sorted letters, because it anyway needs to sort them. In case of random ones, it's significantly better than Bubbles, but much slower than merge.
