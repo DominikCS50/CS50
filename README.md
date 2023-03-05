@@ -1,6 +1,8 @@
 # CS50
 My work from CS50’s Introduction to Computer Science Course by Harvard
 
+5.03/ finance is the most recent completed, most sophisticated task. 
+
 6.11/ dna is the most recent completed, most sophisticated task.
 
 My CS50 journey has started with working on C, the basics of programming.
